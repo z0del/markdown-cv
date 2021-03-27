@@ -9,7 +9,7 @@ title: George Lukas' CV
 <a href="g.lks@pm.me">g.lks@pm.me</a> 
 <br/>+55 (34) 9 9841 4017
 <div id="webaddress">
-  <a href="https://github.com/z0del"><i class="fab fa-github"></i> github: z0del</a> <br/> 
+  <a href="https://github.com/z0del"><i class="fab fa-github"></i> z0del</a> <br/> 
   <a href="https://www.hackerrank.com/z0del"><i class="fab fa-hackerrank"></i> hackerrank: @z0del</a>
 </div>
 
