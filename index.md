@@ -1,91 +1,93 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: George Lukas' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# George Lukas
+<br/>Cientista de Dados, Callink Serviços
 
+
+<a href="g.lks@pm.me">g.lks@pm.me</a> 
+<br/>+55 (34) 9 9841 4017
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://github.com/z0del"><i class="fab fa-github"></i> github: z0del</a> <br/> 
+  <a href="https://www.hackerrank.com/z0del"><i class="fab fa-hackerrank"></i> hackerrank: @z0del</a>
 </div>
 
+## Educação
 
-## Currently
+`2020-atualmente`
+**Lic. Matemática**, *Universidade Presbiteriana Mackenzie*, Uberlândia, MG, BR.<br/>
 
-Standing on the shoulders of giants
+`2013-2017`
+**BSc. Ciência da Computação (Interrompido)**, *Universidade Federal de Uberlândia*, Ubertândia, MG, BR.
 
-### Specialized in
+## Experiência
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2019-atualmente`
+**Cientista de Dados,** *Callink Serviços.*<br/>
+Predictive analysis (Output Maximization / Cost Minimization).
+Modelagem de tópicos usando técnicas de aprendizagem supervisionada como SVM e não supervisionada 
+tais como, Dirichlet-multinomial Mixtures e Latent Dirichlet Allocation. Análise de sentimento usando Lexicon. 
+Automação de serviços por meio do PyTelegram-API. Desenvolvimento e gerenciamento de processos/rotinas com Rapidminer.
+Administração de banco de dados MS-SQL e MySQL. 
 
+`2015-2016`
+**Pesquisador (Bolsa FINEP),** *Universidade Federal de Uberlândia.*<br/>
+Técnicas de Visão Computacional com Torch7.
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2011-2012`
+**Analista de Redes e Segurança (Aprendiz),** *Algar Tecnologia.*<br/>
+Gerenciamento e configuração remota de ativos de rede (Firewalls, Switches e Roteadores).
+Atendimento às ocorrências necessárias para manutenção de rede local junto ao SAT<br/>(Setor de Assistência Técnica).
 
 
+## Atividades Acadêmicas
 
-## Awards
+### Iniciação Científica
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019`
+**Financial Risk Modelling and Portfolio Theory.** *IERI-UFU, Universidade Federal de Uberlândia*<br/>
+Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com <br/>Teoria de Cópulas estatísticas.
 
 
-## Occupation
+### Auxiliar de Laboratório
+`2017`
+**Modelagem e simulação em bioinformática**
+*Faculdade de Computação, Universidade Federal de Uberlândia*
 
-`1600`
-__Royal Mint__, London
+`2014-2017`
+**Pesquisa operacional em inteligência artificial clássica.**
+**Algoritimos e estrutura de dados em programação funcional.**
+*EngeComp-UFU, Universidade Federal de Uberlândia*
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<br/><br/><br/>
+### Monitor de classe
+`2015`
+**Programação Funcional.** *Faculdade de Computação, Universidade Federal de Uberlândia*
 
 
+## Treinamento Professional
+
+`2021-atualmente`
+**Computational Geometry,**<br/>*Saint Petersburg State University (Coursera).*
+<br/>An introduction to computational geometry – 
+With special attention on representation of geometric primitives and evaluation of geometric predicates.<br/>
+
+`2021-atualmente`
+**Introduction to Mathematical Thinking,**<br/>*Stanford (Coursera).*<br/>
+A short course on Number Theory, Real Analysis and Mathematical Logic.<br/>
+
+`2020`
+**Python for Data Science (IBM),** *CognitiveClass.ai*<br/>
+
+`2020`
+**Hadoop Foundations (IBM),** *CognitiveClass.ai*<br/>
+
+
+## Idiomas
+
+Avançado: Inglês<br/>
+Básico: Alemão<br/>
+Nativo: Português<br/>
+
+<br/>Last updated: March  2021<br/><br/>
