@@ -48,8 +48,7 @@ Atendimento às ocorrências necessárias para manutenção de rede local junto 
 
 `2019`
 **Financial Risk Modelling and Portfolio Theory.** *IERI-UFU, Universidade Federal de Uberlândia*<br/>
-Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com <br/>Teoria de Cópulas estatísticas.
-
+Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com Teoria de Cópulas estatísticas.
 
 ### Auxiliar de Laboratório
 `2017`
@@ -67,12 +66,12 @@ Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com <
 
 ## Treinamento Professional
 
-`2021-atualmente`
+`2021`
 **Computational Geometry,**<br/>*Saint Petersburg State University (Coursera).*
 <br/>An introduction to computational geometry – 
 With special attention on representation of geometric primitives and evaluation of geometric predicates.<br/>
 
-`2021-atualmente`
+`2021`
 **Introduction to Mathematical Thinking,**<br/>*Stanford (Coursera).*<br/>
 A short course on Number Theory, Real Analysis and Mathematical Logic.<br/>
 
