@@ -2,9 +2,9 @@
 layout: cv
 title: George Lukas' CV
 ---
+
 # George Lukas
 <br/>Cientista de Dados, Callink Serviços
-
 
 <a href="g.lks@pm.me">g.lks@pm.me</a> 
 <br/>+55 (34) 9 9841 4017
@@ -39,7 +39,7 @@ Técnicas de Visão Computacional com Torch7.
 `2011-2012`
 **Analista de Redes e Segurança (Aprendiz),** *Algar Tecnologia.*<br/>
 Gerenciamento e configuração remota de ativos de rede (Firewalls, Switches e Roteadores).
-Atendimento às ocorrências necessárias para manutenção de rede local junto ao SAT<br/>(Setor de Assistência Técnica).
+Atendimento às ocorrências necessárias para manutenção de rede local junto ao SAT (Setor de Assistência Técnica).
 
 
 ## Atividades Acadêmicas
