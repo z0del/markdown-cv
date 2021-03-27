@@ -61,11 +61,9 @@ Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com <
 **Algoritimos e estrutura de dados em programação funcional.**
 *EngeComp-UFU, Universidade Federal de Uberlândia*
 
-<br/><br/><br/>
 ### Monitor de classe
 `2015`
 **Programação Funcional.** *Faculdade de Computação, Universidade Federal de Uberlândia*
-
 
 ## Treinamento Professional
 
