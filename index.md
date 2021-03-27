@@ -62,7 +62,8 @@ Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com T
 ### Monitor de classe
 `2015`
 **Programação Funcional.** *Faculdade de Computação, Universidade Federal de Uberlândia*
-<br/>
+
+<br/><br/>
 ## Treinamento Professional
 
 `2021`
