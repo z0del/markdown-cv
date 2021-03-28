@@ -16,15 +16,18 @@ title: George Lukas' CV
 ## Educação
 
 `2020-atualmente`
-**Lic. Matemática**, *Universidade Presbiteriana Mackenzie*, Uberlândia, MG, BR.<br/>
+**Lic. Matemática**, 
+*Universidade Presbiteriana Mackenzie*, Uberlândia, MG, BR.<br/>
 
 `2013-2017`
-**BSc. Ciência da Computação (Interrompido)**, *Universidade Federal de Uberlândia*, Ubertândia, MG, BR.
+**BSc. Ciência da Computação (Interrompido)**,
+*Universidade Federal de Uberlândia*, Ubertândia, MG, BR.
 
 ## Experiência
 
 `2019-atualmente`
-**Cientista de Dados,** *Callink Serviços.*<br/>
+**Cientista de Dados,**
+*Callink Serviços.*<br/>
 Predictive analysis (Output Maximization / Cost Minimization).
 Modelagem de tópicos usando técnicas de aprendizagem supervisionada como SVM e não supervisionada 
 tais como, Dirichlet-multinomial Mixtures e Latent Dirichlet Allocation. Análise de sentimento usando Lexicon. 
@@ -36,7 +39,8 @@ Administração de banco de dados MS-SQL e MySQL.
 Técnicas de Visão Computacional com Torch7.
 
 `2011-2012`
-**Analista de Redes e Segurança (Aprendiz),** *Algar Tecnologia.*<br/>
+**Analista de Redes e Segurança (Aprendiz),**
+*Algar Tecnologia.*<br/>
 Gerenciamento e configuração remota de ativos de rede (Firewalls, Switches e Roteadores).
 Atendimento às ocorrências necessárias para manutenção de rede local junto ao SAT (Setor de Assistência Técnica).
 
@@ -46,10 +50,12 @@ Atendimento às ocorrências necessárias para manutenção de rede local junto 
 ### Iniciação Científica
 
 `2019`
-**Financial Risk Modelling and Portfolio Theory.** *IERI-UFU, Universidade Federal de Uberlândia*<br/>
+**Financial Risk Modelling and Portfolio Theory.**
+*IERI-UFU, Universidade Federal de Uberlândia*<br/>
 Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com Teoria de Cópulas estatísticas.
 
 ### Auxiliar de Laboratório
+
 `2017`
 **Modelagem e simulação em bioinformática**
 *Faculdade de Computação, Universidade Federal de Uberlândia*
@@ -60,26 +66,31 @@ Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com T
 *EngeComp-UFU, Universidade Federal de Uberlândia*
 
 ### Monitor de classe
-`2015`
-**Programação Funcional.** *Faculdade de Computação, Universidade Federal de Uberlândia*
 
-<br/>
+`2015`
+**Programação Funcional.**
+*Faculdade de Computação, Universidade Federal de Uberlândia*
+
 ## Treinamento Professional
 
 `2021`
-**Computational Geometry,**<br/>*Saint Petersburg State University (Coursera).*
+**Computational Geometry,**<br/>
+*Saint Petersburg State University (Coursera).*
 <br/>An introduction to computational geometry – 
 With special attention on representation of geometric primitives and evaluation of geometric predicates.<br/>
 
 `2021`
-**Introduction to Mathematical Thinking,**<br/>*Stanford (Coursera).*<br/>
+**Introduction to Mathematical Thinking,**<br/>
+*Stanford (Coursera).*<br/>
 A short course on Number Theory, Real Analysis and Mathematical Logic.<br/>
 
 `2020`
-**Python for Data Science (IBM),** *CognitiveClass.ai*<br/>
+**Python for Data Science (IBM),**
+*CognitiveClass.ai*<br/>
 
 `2020`
-**Hadoop Foundations (IBM),** *CognitiveClass.ai*<br/>
+**Hadoop Foundations (IBM),**
+*CognitiveClass.ai*<br/>
 
 
 ## Idiomas
