@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: George Lukas' CV
+title: George Lukas
 ---
 
 # George Lukas
