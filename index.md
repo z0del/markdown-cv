@@ -36,7 +36,7 @@ Administração de banco de dados MS-SQL e MySQL.
 
 `2015-2016`
 **Pesquisador (Bolsa FINEP),** *Universidade Federal de Uberlândia.*<br/>
-Técnicas de Visão Computacional com Torch7.
+Case-studies em Visão Computacional com Torch7.
 
 `2011-2012`
 **Analista de Redes e Segurança (Aprendiz),**
@@ -50,26 +50,26 @@ Atendimento às ocorrências necessárias para manutenção de rede local junto 
 ### Iniciação Científica
 
 `2019`
-**Financial Risk Modelling and Portfolio Theory.**
+**Financial Risk Modelling and Portfolio Theory,**
 *IERI-UFU, Universidade Federal de Uberlândia*<br/>
-Modelagem de risco e contágio financeiro, cálculos de VaR(Value-at-Risk) com Teoria de Cópulas estatísticas.
+Modelagem de Financial Contagion e VaR(Value-at-Risk) usando Cópulas estatísticas.
 
 ### Auxiliar de Laboratório
 
 `2017`
-**Modelagem e simulação em bioinformática**
-*Faculdade de Computação, Universidade Federal de Uberlândia*
+**Molecular Dynamics Simulation,**
+*FACOM-UFU, Universidade Federal de Uberlândia*
 
 `2014-2017`
-**Pesquisa operacional em inteligência artificial clássica.**
-**Algoritimos e estrutura de dados em programação funcional.**
+**Pesquisa operacional em inteligência artificial clássica,**<br/>
+**Algoritimos e estrutura de dados em programação funcional,**
 *EngeComp-UFU, Universidade Federal de Uberlândia*
 
 ### Monitor de classe
 
 `2015`
-**Programação Funcional.**
-*Faculdade de Computação, Universidade Federal de Uberlândia*
+**Programação Funcional,**
+*FACOM-UFU, Universidade Federal de Uberlândia*
 
 ## Treinamento Professional
 
